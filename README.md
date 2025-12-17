@@ -21,11 +21,7 @@ A modern, feature-rich task management application built with vanilla JavaScript
 
 ## 🚀 Demo
 
-**Live Preview:** [View Demo](#) _(Add your deployed link here)_
-
-### Screenshots
-
-_Add screenshots of your application here_
+**Live Preview:** [View Demo](#) _(https://abhiraj7575.github.io/to-do-list/)_
 
 ## 🛠️ Technologies Used
 
@@ -129,9 +125,6 @@ This project is **free to use** and does not contain any license.
 ## 👨‍💻 Author
 
 **Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ## ⭐ Show Your Support
